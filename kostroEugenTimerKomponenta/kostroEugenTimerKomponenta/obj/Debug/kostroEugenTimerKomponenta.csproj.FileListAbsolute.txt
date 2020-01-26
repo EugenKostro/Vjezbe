@@ -1,0 +1,8 @@
+C:\Users\kostr\source\repos\kostroEugenTimerKomponenta\kostroEugenTimerKomponenta\bin\Debug\kostroEugenTimerKomponenta.exe.config
+C:\Users\kostr\source\repos\kostroEugenTimerKomponenta\kostroEugenTimerKomponenta\bin\Debug\kostroEugenTimerKomponenta.exe
+C:\Users\kostr\source\repos\kostroEugenTimerKomponenta\kostroEugenTimerKomponenta\bin\Debug\kostroEugenTimerKomponenta.pdb
+C:\Users\kostr\source\repos\kostroEugenTimerKomponenta\kostroEugenTimerKomponenta\obj\Debug\kostroEugenTimerKomponenta.Form1.resources
+C:\Users\kostr\source\repos\kostroEugenTimerKomponenta\kostroEugenTimerKomponenta\obj\Debug\kostroEugenTimerKomponenta.Properties.Resources.resources
+C:\Users\kostr\source\repos\kostroEugenTimerKomponenta\kostroEugenTimerKomponenta\obj\Debug\kostroEugenTimerKomponenta.csproj.GenerateResource.cache
+C:\Users\kostr\source\repos\kostroEugenTimerKomponenta\kostroEugenTimerKomponenta\obj\Debug\kostroEugenTimerKomponenta.exe
+C:\Users\kostr\source\repos\kostroEugenTimerKomponenta\kostroEugenTimerKomponenta\obj\Debug\kostroEugenTimerKomponenta.pdb
