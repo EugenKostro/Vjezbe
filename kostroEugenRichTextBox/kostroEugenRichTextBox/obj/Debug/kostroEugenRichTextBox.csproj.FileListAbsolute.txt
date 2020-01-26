@@ -1,0 +1,9 @@
+C:\Users\kostr\source\repos\kostroEugenRichTextBox\kostroEugenRichTextBox\bin\Debug\kostroEugenRichTextBox.exe.config
+C:\Users\kostr\source\repos\kostroEugenRichTextBox\kostroEugenRichTextBox\bin\Debug\kostroEugenRichTextBox.exe
+C:\Users\kostr\source\repos\kostroEugenRichTextBox\kostroEugenRichTextBox\bin\Debug\kostroEugenRichTextBox.pdb
+C:\Users\kostr\source\repos\kostroEugenRichTextBox\kostroEugenRichTextBox\obj\Debug\kostroEugenRichTextBox.csprojAssemblyReference.cache
+C:\Users\kostr\source\repos\kostroEugenRichTextBox\kostroEugenRichTextBox\obj\Debug\kostroEugenRichTextBox.Form1.resources
+C:\Users\kostr\source\repos\kostroEugenRichTextBox\kostroEugenRichTextBox\obj\Debug\kostroEugenRichTextBox.Properties.Resources.resources
+C:\Users\kostr\source\repos\kostroEugenRichTextBox\kostroEugenRichTextBox\obj\Debug\kostroEugenRichTextBox.csproj.GenerateResource.cache
+C:\Users\kostr\source\repos\kostroEugenRichTextBox\kostroEugenRichTextBox\obj\Debug\kostroEugenRichTextBox.exe
+C:\Users\kostr\source\repos\kostroEugenRichTextBox\kostroEugenRichTextBox\obj\Debug\kostroEugenRichTextBox.pdb
