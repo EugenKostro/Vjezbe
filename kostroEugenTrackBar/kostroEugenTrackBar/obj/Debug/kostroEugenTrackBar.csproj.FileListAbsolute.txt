@@ -1,0 +1,8 @@
+C:\Users\kostr\source\repos\kostroEugenTrackBar\kostroEugenTrackBar\bin\Debug\kostroEugenTrackBar.exe.config
+C:\Users\kostr\source\repos\kostroEugenTrackBar\kostroEugenTrackBar\bin\Debug\kostroEugenTrackBar.exe
+C:\Users\kostr\source\repos\kostroEugenTrackBar\kostroEugenTrackBar\bin\Debug\kostroEugenTrackBar.pdb
+C:\Users\kostr\source\repos\kostroEugenTrackBar\kostroEugenTrackBar\obj\Debug\kostroEugenTrackBar.Form1.resources
+C:\Users\kostr\source\repos\kostroEugenTrackBar\kostroEugenTrackBar\obj\Debug\kostroEugenTrackBar.Properties.Resources.resources
+C:\Users\kostr\source\repos\kostroEugenTrackBar\kostroEugenTrackBar\obj\Debug\kostroEugenTrackBar.csproj.GenerateResource.cache
+C:\Users\kostr\source\repos\kostroEugenTrackBar\kostroEugenTrackBar\obj\Debug\kostroEugenTrackBar.exe
+C:\Users\kostr\source\repos\kostroEugenTrackBar\kostroEugenTrackBar\obj\Debug\kostroEugenTrackBar.pdb
