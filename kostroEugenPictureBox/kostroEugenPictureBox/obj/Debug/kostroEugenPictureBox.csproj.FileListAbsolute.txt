@@ -1,0 +1,9 @@
+C:\Users\kostr\source\repos\kostroEugenPictureBox\kostroEugenPictureBox\bin\Debug\kostroEugenPictureBox.exe.config
+C:\Users\kostr\source\repos\kostroEugenPictureBox\kostroEugenPictureBox\bin\Debug\kostroEugenPictureBox.exe
+C:\Users\kostr\source\repos\kostroEugenPictureBox\kostroEugenPictureBox\bin\Debug\kostroEugenPictureBox.pdb
+C:\Users\kostr\source\repos\kostroEugenPictureBox\kostroEugenPictureBox\obj\Debug\kostroEugenPictureBox.csprojAssemblyReference.cache
+C:\Users\kostr\source\repos\kostroEugenPictureBox\kostroEugenPictureBox\obj\Debug\kostroEugenPictureBox.Form1.resources
+C:\Users\kostr\source\repos\kostroEugenPictureBox\kostroEugenPictureBox\obj\Debug\kostroEugenPictureBox.Properties.Resources.resources
+C:\Users\kostr\source\repos\kostroEugenPictureBox\kostroEugenPictureBox\obj\Debug\kostroEugenPictureBox.csproj.GenerateResource.cache
+C:\Users\kostr\source\repos\kostroEugenPictureBox\kostroEugenPictureBox\obj\Debug\kostroEugenPictureBox.exe
+C:\Users\kostr\source\repos\kostroEugenPictureBox\kostroEugenPictureBox\obj\Debug\kostroEugenPictureBox.pdb
