@@ -1,0 +1,9 @@
+C:\Users\kostr\source\repos\kostroEugenRadioButton\kostroEugenRadioButton\bin\Debug\kostroEugenRadioButton.exe.config
+C:\Users\kostr\source\repos\kostroEugenRadioButton\kostroEugenRadioButton\bin\Debug\kostroEugenRadioButton.exe
+C:\Users\kostr\source\repos\kostroEugenRadioButton\kostroEugenRadioButton\bin\Debug\kostroEugenRadioButton.pdb
+C:\Users\kostr\source\repos\kostroEugenRadioButton\kostroEugenRadioButton\obj\Debug\kostroEugenRadioButton.csprojAssemblyReference.cache
+C:\Users\kostr\source\repos\kostroEugenRadioButton\kostroEugenRadioButton\obj\Debug\kostroEugenRadioButton.Form1.resources
+C:\Users\kostr\source\repos\kostroEugenRadioButton\kostroEugenRadioButton\obj\Debug\kostroEugenRadioButton.Properties.Resources.resources
+C:\Users\kostr\source\repos\kostroEugenRadioButton\kostroEugenRadioButton\obj\Debug\kostroEugenRadioButton.csproj.GenerateResource.cache
+C:\Users\kostr\source\repos\kostroEugenRadioButton\kostroEugenRadioButton\obj\Debug\kostroEugenRadioButton.exe
+C:\Users\kostr\source\repos\kostroEugenRadioButton\kostroEugenRadioButton\obj\Debug\kostroEugenRadioButton.pdb
