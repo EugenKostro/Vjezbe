@@ -1,0 +1,9 @@
+C:\Users\kostr\source\repos\kostroEugenImageList\kostroEugenImageList\bin\Debug\kostroEugenImageList.exe.config
+C:\Users\kostr\source\repos\kostroEugenImageList\kostroEugenImageList\bin\Debug\kostroEugenImageList.exe
+C:\Users\kostr\source\repos\kostroEugenImageList\kostroEugenImageList\bin\Debug\kostroEugenImageList.pdb
+C:\Users\kostr\source\repos\kostroEugenImageList\kostroEugenImageList\obj\Debug\kostroEugenImageList.csprojAssemblyReference.cache
+C:\Users\kostr\source\repos\kostroEugenImageList\kostroEugenImageList\obj\Debug\kostroEugenImageList.Form1.resources
+C:\Users\kostr\source\repos\kostroEugenImageList\kostroEugenImageList\obj\Debug\kostroEugenImageList.Properties.Resources.resources
+C:\Users\kostr\source\repos\kostroEugenImageList\kostroEugenImageList\obj\Debug\kostroEugenImageList.csproj.GenerateResource.cache
+C:\Users\kostr\source\repos\kostroEugenImageList\kostroEugenImageList\obj\Debug\kostroEugenImageList.exe
+C:\Users\kostr\source\repos\kostroEugenImageList\kostroEugenImageList\obj\Debug\kostroEugenImageList.pdb
