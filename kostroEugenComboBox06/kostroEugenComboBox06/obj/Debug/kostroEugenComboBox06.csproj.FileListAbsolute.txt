@@ -1,0 +1,9 @@
+C:\Users\kostr\source\repos\kostroEugenComboBox06\kostroEugenComboBox06\bin\Debug\kostroEugenComboBox06.exe.config
+C:\Users\kostr\source\repos\kostroEugenComboBox06\kostroEugenComboBox06\bin\Debug\kostroEugenComboBox06.exe
+C:\Users\kostr\source\repos\kostroEugenComboBox06\kostroEugenComboBox06\bin\Debug\kostroEugenComboBox06.pdb
+C:\Users\kostr\source\repos\kostroEugenComboBox06\kostroEugenComboBox06\obj\Debug\kostroEugenComboBox06.csprojAssemblyReference.cache
+C:\Users\kostr\source\repos\kostroEugenComboBox06\kostroEugenComboBox06\obj\Debug\kostroEugenComboBox06.Form1.resources
+C:\Users\kostr\source\repos\kostroEugenComboBox06\kostroEugenComboBox06\obj\Debug\kostroEugenComboBox06.Properties.Resources.resources
+C:\Users\kostr\source\repos\kostroEugenComboBox06\kostroEugenComboBox06\obj\Debug\kostroEugenComboBox06.csproj.GenerateResource.cache
+C:\Users\kostr\source\repos\kostroEugenComboBox06\kostroEugenComboBox06\obj\Debug\kostroEugenComboBox06.exe
+C:\Users\kostr\source\repos\kostroEugenComboBox06\kostroEugenComboBox06\obj\Debug\kostroEugenComboBox06.pdb
