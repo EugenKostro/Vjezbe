@@ -1,0 +1,10 @@
+C:\Users\3.D\source\repos\kostroEugenMonthCalendar\kostroEugenMonthCalendar\bin\Debug\kostroEugenMonthCalendar.exe.config
+C:\Users\3.D\source\repos\kostroEugenMonthCalendar\kostroEugenMonthCalendar\bin\Debug\kostroEugenMonthCalendar.exe
+C:\Users\3.D\source\repos\kostroEugenMonthCalendar\kostroEugenMonthCalendar\bin\Debug\kostroEugenMonthCalendar.pdb
+C:\Users\3.D\source\repos\kostroEugenMonthCalendar\kostroEugenMonthCalendar\obj\Debug\kostroEugenMonthCalendar.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\kostroEugenMonthCalendar\kostroEugenMonthCalendar\obj\Debug\kostroEugenMonthCalendar.Form1.resources
+C:\Users\3.D\source\repos\kostroEugenMonthCalendar\kostroEugenMonthCalendar\obj\Debug\kostroEugenMonthCalendar.Properties.Resources.resources
+C:\Users\3.D\source\repos\kostroEugenMonthCalendar\kostroEugenMonthCalendar\obj\Debug\kostroEugenMonthCalendar.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\kostroEugenMonthCalendar\kostroEugenMonthCalendar\obj\Debug\kostroEugenMonthCalendar.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\kostroEugenMonthCalendar\kostroEugenMonthCalendar\obj\Debug\kostroEugenMonthCalendar.exe
+C:\Users\3.D\source\repos\kostroEugenMonthCalendar\kostroEugenMonthCalendar\obj\Debug\kostroEugenMonthCalendar.pdb
