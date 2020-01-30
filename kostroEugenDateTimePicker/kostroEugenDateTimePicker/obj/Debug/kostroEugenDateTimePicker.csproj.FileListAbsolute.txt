@@ -1,0 +1,10 @@
+C:\Users\3.D\source\repos\kostroEugenDateTimePicker\kostroEugenDateTimePicker\bin\Debug\kostroEugenDateTimePicker.exe.config
+C:\Users\3.D\source\repos\kostroEugenDateTimePicker\kostroEugenDateTimePicker\bin\Debug\kostroEugenDateTimePicker.exe
+C:\Users\3.D\source\repos\kostroEugenDateTimePicker\kostroEugenDateTimePicker\bin\Debug\kostroEugenDateTimePicker.pdb
+C:\Users\3.D\source\repos\kostroEugenDateTimePicker\kostroEugenDateTimePicker\obj\Debug\kostroEugenDateTimePicker.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\kostroEugenDateTimePicker\kostroEugenDateTimePicker\obj\Debug\kostroEugenDateTimePicker.Form1.resources
+C:\Users\3.D\source\repos\kostroEugenDateTimePicker\kostroEugenDateTimePicker\obj\Debug\kostroEugenDateTimePicker.Properties.Resources.resources
+C:\Users\3.D\source\repos\kostroEugenDateTimePicker\kostroEugenDateTimePicker\obj\Debug\kostroEugenDateTimePicker.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\kostroEugenDateTimePicker\kostroEugenDateTimePicker\obj\Debug\kostroEugenDateTimePicker.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\kostroEugenDateTimePicker\kostroEugenDateTimePicker\obj\Debug\kostroEugenDateTimePicker.exe
+C:\Users\3.D\source\repos\kostroEugenDateTimePicker\kostroEugenDateTimePicker\obj\Debug\kostroEugenDateTimePicker.pdb
