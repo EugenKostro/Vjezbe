@@ -1,0 +1,10 @@
+C:\Users\3.D\source\repos\kostroEugenContextMenuStrip\kostroEugenContextMenuStrip\bin\Debug\kostroEugenContextMenuStrip.exe.config
+C:\Users\3.D\source\repos\kostroEugenContextMenuStrip\kostroEugenContextMenuStrip\bin\Debug\kostroEugenContextMenuStrip.exe
+C:\Users\3.D\source\repos\kostroEugenContextMenuStrip\kostroEugenContextMenuStrip\bin\Debug\kostroEugenContextMenuStrip.pdb
+C:\Users\3.D\source\repos\kostroEugenContextMenuStrip\kostroEugenContextMenuStrip\obj\Debug\kostroEugenContextMenuStrip.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\kostroEugenContextMenuStrip\kostroEugenContextMenuStrip\obj\Debug\kostroEugenContextMenuStrip.Form1.resources
+C:\Users\3.D\source\repos\kostroEugenContextMenuStrip\kostroEugenContextMenuStrip\obj\Debug\kostroEugenContextMenuStrip.Properties.Resources.resources
+C:\Users\3.D\source\repos\kostroEugenContextMenuStrip\kostroEugenContextMenuStrip\obj\Debug\kostroEugenContextMenuStrip.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\kostroEugenContextMenuStrip\kostroEugenContextMenuStrip\obj\Debug\kostroEugenContextMenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\kostroEugenContextMenuStrip\kostroEugenContextMenuStrip\obj\Debug\kostroEugenContextMenuStrip.exe
+C:\Users\3.D\source\repos\kostroEugenContextMenuStrip\kostroEugenContextMenuStrip\obj\Debug\kostroEugenContextMenuStrip.pdb
