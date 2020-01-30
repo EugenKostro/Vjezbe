@@ -1,0 +1,9 @@
+C:\Users\3.D\source\repos\kostroEugenDialogResults\kostroEugenDialogResults\bin\Debug\kostroEugenDialogResults.exe.config
+C:\Users\3.D\source\repos\kostroEugenDialogResults\kostroEugenDialogResults\bin\Debug\kostroEugenDialogResults.exe
+C:\Users\3.D\source\repos\kostroEugenDialogResults\kostroEugenDialogResults\bin\Debug\kostroEugenDialogResults.pdb
+C:\Users\3.D\source\repos\kostroEugenDialogResults\kostroEugenDialogResults\obj\Debug\kostroEugenDialogResults.Form1.resources
+C:\Users\3.D\source\repos\kostroEugenDialogResults\kostroEugenDialogResults\obj\Debug\kostroEugenDialogResults.Properties.Resources.resources
+C:\Users\3.D\source\repos\kostroEugenDialogResults\kostroEugenDialogResults\obj\Debug\kostroEugenDialogResults.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\kostroEugenDialogResults\kostroEugenDialogResults\obj\Debug\kostroEugenDialogResults.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\kostroEugenDialogResults\kostroEugenDialogResults\obj\Debug\kostroEugenDialogResults.exe
+C:\Users\3.D\source\repos\kostroEugenDialogResults\kostroEugenDialogResults\obj\Debug\kostroEugenDialogResults.pdb
